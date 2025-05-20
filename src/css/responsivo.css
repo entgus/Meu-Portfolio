@@ -1,0 +1,6 @@
+@media (max-width: 425px) {
+    /* Estilos para dispositivos móveis */
+    body {
+        font-size: 7px;
+    }
+}
